@@ -1,4 +1,4 @@
-# Quiz02
+# Quiz03
 
 - 집계(Aggregation) 관련 연습문제입니다.
 
