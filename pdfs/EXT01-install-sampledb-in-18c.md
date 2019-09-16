@@ -36,5 +36,5 @@ specify temporary tablespace for HR as parameter 3:
 Step 3-4. 로그 기록 경로 설정
 ```bash
 specify log path as parameter 4:
-Enter value for 4: $ORACLE_HOME/demo/
+Enter value for 4: ...
 ```
